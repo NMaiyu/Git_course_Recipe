@@ -1,24 +1,27 @@
 # Fried rice !
 
-> modified from https://www.foodista.com/recipe/Y5X5S86G/chinese-fried-rice-instant-pot-recipes
+> modified from [Foodvista](https://www.foodista.com/recipe/Y5X5S86G/chinese-fried-rice-instant-pot-recipes)
+
+![jumping_rice.png](recipes/jumping_rice.png)
+
 
 ## Ingredients
-1 teaspoon salt
-taste black pepper(optional)
-3 tablespoons oyster sauce
-1 1/2 cups water
-green onion
-2 cups rice
-2 eggs
-3 tablespoons soy sauce
-1 tablespoon sesame oil
-6 tablespoons sunflower oil
-1 bell pepper
-4 cloves garlic
-1 carrot
-some meat (or not)
-1 onion
-sesame seeds(optional)
+- 1 teaspoon salt
+- taste black pepper(optional)
+- 3 tablespoons oyster sauce
+- 1 1/2 cups water
+- green onion
+- 2 cups rice
+- 2 eggs
+- 3 tablespoons soy sauce
+- 1 tablespoon sesame oil
+- 6 tablespoons sunflower oil
+- 1 bell pepper
+- 4 cloves garlic
+- 1 carrot
+- some meat (or not)
+- 1 onion
+- sesame seeds(optional)
 
 ## Instructions
 1. Cook the rice separatedly from the rest
