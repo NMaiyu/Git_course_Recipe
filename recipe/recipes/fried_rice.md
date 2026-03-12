@@ -2,6 +2,9 @@
 
 > modified from [Foodvista](https://www.foodista.com/recipe/Y5X5S86G/chinese-fried-rice-instant-pot-recipes)
 
+![jumping_rice.png](recipes/jumping_rice.png)
+
+
 ## Ingredients
 - 1 teaspoon salt
 - taste black pepper(optional)
