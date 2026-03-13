@@ -2,4 +2,4 @@ A recipe for the [2026 IPGP Git Class](https://github.com/IPGP/git_class/)
 
 Something new in the readme
 
-Creating a conflict, local part
+Making a change here
