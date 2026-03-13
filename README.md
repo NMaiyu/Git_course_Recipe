@@ -4,3 +4,5 @@ Something new in the readme
 
 Making a change here
 Even more changes
+
+to test git fetch
