@@ -3,3 +3,4 @@ A recipe for the [2026 IPGP Git Class](https://github.com/IPGP/git_class/)
 Something new in the readme
 
 Making a change here
+Even more changes
